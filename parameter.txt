@@ -1,0 +1,25 @@
+50
+100
+800
+15
+1000
+20
+750
+0.0002
+0.002
+0.5
+
+
+
+
+1. radious of the owner search window 
+2. Frames for Background Model Initialization
+3. Threshold of maximum static foreground 
+4. Threshold of minimum static foreground
+5. Threshold of maximum foreground
+6. Threshold of minimum  foreground
+7. Frame buffer for back-tracing
+8. learning rate of the long-term background model
+9. learning rate of the short-term background model
+10. image resize-ratio (for speed up)
+
